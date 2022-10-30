@@ -1,6 +1,3 @@
 # pierrehollweque.github.io
 
 
-
-
-
